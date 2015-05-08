@@ -1,5 +1,5 @@
 # nMapper
-A very basic ORM .NET library for directly mapping POCO/DTO objects to database tables.
+A very basic Micro-ORM .NET library for directly mapping POCO/DTO objects to database tables.
 
 ###Available on Nuget
 #####Install-Package NMapper
@@ -32,6 +32,7 @@ Now in order to map this table to POCO classes using NMapper we do the following
 
 ```C#
 ///This is the POCO class for the user Table
+//The ColunmName Attribute class is defined in NMapperAttributes. This should be referenced if not done automatically while installing NMapper From Nuget.
 public class User
     {
         [ColumnName("user_id")]
