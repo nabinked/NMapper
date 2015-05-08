@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NMapper</id>
+    <version>$version$</version>
+    <title>NMapper</title>
+    <authors>Nabin Karki Thapa</authors>
+    <owners>Nabin Karki Thapa</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/nabinked/nMapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A very basic mirco-orm library to map poco classes to database tables.</description>
+    <releaseNotes>Regular Development</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Micro-ORM POCO Mapper</tags>
+  
+  <dependencies>
+  <dependency id="NMapperAttributes" version="1.0.0.0" />
+</dependencies>
+
+  </metadata>
+  
+</package>
