@@ -1,0 +1,13 @@
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\bin\Debug\nMapper.dll
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\bin\Debug\nMapper.pdb
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\bin\Debug\NMapperAttributes.dll
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\bin\Debug\NMapperAttributes.pdb
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\obj\Debug\nMapper.csprojResolveAssemblyReference.cache
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\obj\Debug\nMapper.dll
+C:\Users\Nabin\Documents\Visual Studio 2013\Projects\MapperTest\nMapper\obj\Debug\nMapper.pdb
+E:\Repositories\MapperTest\nMapper\bin\Debug\nMapper.dll
+E:\Repositories\MapperTest\nMapper\bin\Debug\nMapper.pdb
+E:\Repositories\MapperTest\nMapper\bin\Debug\NMapperAttributes.dll
+E:\Repositories\MapperTest\nMapper\obj\Debug\NMapper.csprojResolveAssemblyReference.cache
+E:\Repositories\MapperTest\nMapper\obj\Debug\nMapper.dll
+E:\Repositories\MapperTest\nMapper\obj\Debug\nMapper.pdb
