@@ -13,7 +13,8 @@ A very basic Micro-ORM .NET library for directly mapping POCO/DTO objects to dat
 
 ###How does it work
 
-- Decorate your POCO class properties with the column names atributes. This requires you to reference the NMapperAttributes Library thats available on Nuget.
+- ~~Decorate your POCO class properties with the column names atributes. This requires you to reference the NMapperAttributes Library thats available on Nuget~~.
+- You dont need to mark your classes with any attributes. If you specify the naming conventions then it will automatically try to find the property matching the column name. If the names are not in accordance with the naming conventions you can provide a column name atribute as mentioned in the previous bullet point.
 - Instantiate a new Mapper Class.
 - Pass in the Idb command parameter and get the Object(s).
 
