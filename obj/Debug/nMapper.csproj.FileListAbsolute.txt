@@ -1,0 +1,6 @@
+E:\Repositories\Everest\nMapper\bin\Debug\nMapper.dll
+E:\Repositories\Everest\nMapper\bin\Debug\nMapper.pdb
+E:\Repositories\Everest\nMapper\bin\Debug\NMapperAttributes.dll
+E:\Repositories\Everest\nMapper\obj\Debug\NMapper.csprojResolveAssemblyReference.cache
+E:\Repositories\Everest\nMapper\obj\Debug\nMapper.dll
+E:\Repositories\Everest\nMapper\obj\Debug\nMapper.pdb
