@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NMapper</id>
+    <version>$version$</version>
+    <title>NMapper</title>
+    <authors>Nabin Karki Thapa</authors>
+    <owners>Nabin Karki Thapa</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/nabinked/nMapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A very basic library to map and populate POCO classes from database tables.</description>
+    <releaseNotes>Conventions based mapping.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Micro-ORM POCO Mapper</tags>
+  </metadata>
+  
+</package>
