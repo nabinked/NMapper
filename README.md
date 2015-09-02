@@ -35,25 +35,18 @@ Now in order to map this table to POCO classes using NMapper we do the following
 //The ColunmName Attribute class is defined in NMapperAttributes. This should be referenced if not done automatically while installing NMapper From Nuget.
 public class User
     {
-        [ColumnName("user_id")]
         public long UserId { get; set; }
         
-        [ColumnName("user_name")]
         public string UserName { get; set; }
 
-        [ColumnName("password")]
         public string Password { get; set; }
 
-        [ColumnName("email")]
         public string Email { get; set; }
 
-        [ColumnName("first_name")]
         public string FirstName { get; set; }
 
-        [ColumnName("last_name")]
         public string LastName { get; set; }
         
-        [ColumnName("audit_ts")]
         public DateTime AuditTs { get; set; }
 
     }
